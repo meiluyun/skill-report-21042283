@@ -1,0 +1,107 @@
+rank,name,city,country,continents,floors,m,ft,structure,function
+1,Central Park Tower,New York City,America,North America,98,472,1550,concrete,residential
+2,One Vanderbilt Avenue,New York City,America,North America,59,427,1401,composite,office
+3,Guangxi China Resources Tower,Nanning,China,Asia,87,403,1321,composite,"hotel, office"
+4,Guiyang International Financial Center T1,Guiyang,China,Asia,79,401,1316,composite,"hotel, office"
+5,Shum Yip Upperhills Tower 1,Shenzhen,China,Asia,80,388,1273,composite,"hotel, office"
+6,The St. Regis Chicago,Chicago,America,North America,101,363,1191,concrete,"residential, hotel"
+7,NEVA TOWERS 2,Moscow,Russia,Europe,79,345,1132,concrete,residential
+8,Heartland 66 Office Tower,Wuhan,China,Asia,60,339,1112,composite,office
+9,Parc1 Tower I,Seoul,Korea,Asia,68,338,1109,composite,office
+10,Hengqin International Finance Center,Zhuhai,China,Asia,69,338,1108,composite,"residential, office"
+11,SLS Dubai,Dubai,The United Arab Emirates,Asia,78,336,1102,concrete,"serviced apartments, hotel"
+12,"Twin Towers Guiyang, East Tower",Guiyang,China,Asia,74,335,1099,composite,office
+13,"Twin Towers Guiyang, West Tower",Guiyang,China,Asia,74,335,1099,composite,office
+14,Jinan Center Financial City A5-3,Jinan,China,Asia,69,333,1093,composite,"hotel,office"
+15,Xiangjiang Fortune Finance Center Tower 1,Changsha,China,Asia,65,327,1073,composite,office
+16,Australia 108,Melbourne,Australia,Oceania,100,317,1039,concrete,residential
+17,Shenzhen Bay Innovation and Technology Centre Tower 1,Shenzhen,China,Asia,69,311,1021,composite,office
+18,Amna Tower,Dubai,The United Arab Emirates,Asia,75,307,1007,concrete,residential
+19,T.OP Corporativo,Monterrey,Mexico,North America,64,305,1002,concrete,"hotel,office"
+20,The Address Beach Resort,Dubai,The United Arab Emirates,Asia,78,303,994,concrete,"hotel,serviced apartments"
+21,OCT Tower,Shenzhen,China,Asia,60,300,984,composite,office
+22,NEVA TOWERS 1,Moscow,Russia,Europe,65,297,974,concrete,"residential, office"
+23,Shimao Qianhai Center,Shenzhen,China,Asia,62,294,966,composite,office
+24,World One,Mumbai,India,Asia,76,280,918,concrete,residential
+25,World View,Mumbai,India,Asia,76,278,912,concrete,residential
+26,ICD Brookfield Place,Dubai,The United Arab Emirates,Asia,54,282,926,composite,office
+27,Qiantan Center,Shanghai,China,Asia,56,280,919,composite,office
+28,Boulevard Point,Dubai,The United Arab Emirates,Asia,69,280,918,concrete,residential
+29,22 Bishopsgate,London,United Kingdom,Europe,62,278,913,composite,office
+30,Fortune Jinmao Tower A,Lanzhou,China,Asia,57,278,912,composite,"residential ,hotel ,office ,retail"
+31,Guiyang International Financial Center T2,Guiyang,China,Asia,54,275,902,composite,office
+32,Commercial Union Centre 1,Nanchang,China,Asia,58,272,892,composite,"hotel,office"
+33,Commercial Union Centre 2,Nanchang,China,Asia,57,272,892,composite,office
+34,One Barangaroo,Sydney,Australia,Oceania,71,271,890,composite,"residential ,hotel "
+35,99 Hudson Street,Jersey City,America,North America,76,271,889,concrete,residential
+36,R&F Riverside New City - Ritz-Carlton Hotel,Harbin,China,Asia,56,270,885,composite,hotel
+37,Fangda Building,Zhuhai,China,Asia,41,264,867,concrete,office
+38,Xiangjiang Fortune Finance Center Tower 2,Changsha,China,Asia,52,262,859,composite,"hotel,office"
+39,Nathani Heights,Mumbai,India,Asia,72,262,858,concrete,residential
+40,Parc1 Tower II,Seoul,Korea,Asia,52,261,855,composite,office
+41,Landmark Tower,Haikou,China,Asia,51,260,853,composite,"hotel,office"
+42,Rainier Square,Seattle,America,North America,58,260,852,composite,"residential, office"
+43,Cadre City Plaza West Tower,Guangzhou,China,Asia,60,257,843,composite,"SOHO, office, hotel, retail"
+44,Permata Sapura Tower,Kuala Lumpur,Malaysia,Asia,53,252,828,concrete,office
+45,UCC Huanyu Huijin Center Tower 1,Dongguan,China,Asia,58,250,820,concrete,office
+46,110 North Wacker,Chicago,America,North America,55,250,817,composite,office
+47,Shenzhen Bay Innovation and Technology Centre Tower 2,Shenzhen,China,Asia,53,247,811,composite,office
+48,Greenland Center,Hefei,China,Asia,58,240,787,composite,office
+49,Landmark Pinnacle,London,United Kingdom,Europe,77,233,765,concrete,"residential ,hotel "
+50,Hotel Safi Metropolitan,San Pedro Garza Garc¨ªa,Mwxico,North America,56,233,764,concrete,"hotel,office"
+51,Wuhan International Trade Center A,Wuhan,China,Asia,45,233,764,composite,office
+52,Palm Tower,Dubai,The United Arab Emirates,Asia,53,231,760,concrete,"residential ,hotel "
+53,Samba Bank HQ TowerRiyadh,,Saudi Areabia,Asia,40,231,758,concrete,office
+54,130 William Street,New York City,America,North America,61,230,755,concrete,residential
+55,International Air Service Center Tower 1,Shanghai,China,Asia,52,230,755,composite,office
+56,Sofitel Dubai The Obelisk,Dubai,The United Arab Emirates,Asia,50,230,755,concrete,"residential, hotel"
+57,China Construction Bank Building 2,Shenzhen,China,Asia,40,230,755,composite,office
+58,Emaar Square The Address Hotel & Residences,Istanbul,Turkey,Asia,50,229,753,composite,"retail, hotel , serviced apartments, residential"
+59,Huizhong Development Center Tower B,Changsha,China,Asia,50,228,748,concrete,"hotel,office"
+60,Huizhong Development Center Tower A,Changsha,China,Asia,47,228,748,concrete,office
+61,Changchun International Finance Center Tower 1,Changchun,China,Asia,47,226,741,steel,office
+62,Jumeirah Living Marina Gate,Dubai,The United Arab Emirates,Asia,56,224,736,concrete,residential
+63,Brooklyn Point,New York City,America,North America,57,220,723,concrete,residential
+64,Newfoundland Place,London,United Kingdom,Europe,59,220,721,composite,residential
+65,Ganzhou Baoneng Center,Ganzhou,China,Asia,43,218,715,composite,"hotel,office"
+66,Nanjing Financial City Phase II Tower 3,Nanjing,China,Asia,43,217,712,composite,office
+67,Gold Times Square Block A,Jinan,China,Asia,47,216,709,composite,office
+68,Dongying World Finance Center,Dongying,China,Asia,48,215,705,concrete,office
+69,Valiant Tower,London,United Kingdom,Europe,68,214,704,concrete,residential
+70,The Politan Aqua West Tower,Nonthaburi,Thailand,Asia,61,214,703,concrete,residential
+71,25 Park Row,New York City,America,North America,54,214,702,concrete,residential
+72,Sinotrans Logistic Centre,Shenzhen,China,Asia,54,213,698,concrete,office
+73,Yongwei Times Square,Xi¡¯an,China,Asia,43,212,696,composite,office
+74,The Tower Yokohama Kitanaka,Yokohama,Japan,Asia,58,212,695,composite,"residential, hotel"
+75,LOHAS Park LP6 Tower 1,Hong Kong,China,Asia,63,212,695,concrete,residential
+76,LOHAS Park LP6 Tower 2,Hong Kong,China,Asia,63,212,695,concrete,residential
+77,Hengmingzhu Financial Building,Shenzhen,China,Asia,63,211,691,concrete,office
+78,Ziyuanyuan Tower,Shenzhen,China,Asia,47,210,689,composite,"residential, office"
+79,Hengli Center 1,Suzhou,China,Asia,51,209,686,concrete,office
+80,Takeshiba Urban Redevelopment Project District A,Tokyo,Japan,Asia,39,208,684,steel,office
+81,The Politan Aqua East Tower,Nonthaburi,Thailand,Asia,61,208,682,concrete,residential
+82,Pullman Doha West Bay,Doha,Qatar,Asia,52,208,682,concrete,"residential, hotel"
+83,Harbour Views Tower 1,Dubai,The United Arab Emirates,Asia,51,207,679,concrete,residential
+84,Harbour Views Tower 2,Dubai,The United Arab Emirates,Asia,51,207,679,concrete,residential
+85,Alibaba South Tower,Guangzhou,China,Asia,37,207,679,concrete,office
+86,Ningbo Guohua Financial Tower,Ningbo,China,Asia,45,206,677,concrete,office
+87,LOHAS Park LP6 Tower 3,Hong Kong,China,Asia,61,206,675,concrete,residential
+88,LOHAS Park LP6 Tower 5,Hong Kong,China,Asia,61,206,675,concrete,residential
+89,Shengjing Finance Plaza R1,Shenyang,China,Asia,60,205,672,concrete,residential
+90,Shengjing Finance Plaza R2,Shenyang,China,Asia,60,205,672,concrete,residential
+91,Shengjing Finance Plaza R4,Shenyang,China,Asia,60,205,672,concrete,residential
+92,Shengjing Finance Plaza R5,Shenyang,China,Asia,60,205,672,concrete,residential
+93,Shengjing Finance Plaza R6,Shenyang,China,Asia,60,205,672,concrete,residential
+94,Shengjing Finance Plaza R7,Shenyang,China,Asia,60,205,672,concrete,residential
+95,Shengjing Finance Plaza R8,Shenyang,China,Asia,60,205,672,concrete,residential
+96,Shengjing Finance Plaza R9,Shenyang,China,Asia,60,205,672,concrete,residential
+97,RP Heights,Dubai,The United Arab Emirates,Asia,50,204,669,concrete,residential
+98,R&F Riverside New City - Office Tower 1,Harbin,China,Asia,42,203,668,composite,office
+99,Wolf Point East Tower,Chicago,America,North America,60,203,663,concrete,residential
+100,Cadre City Plaza East Tower,Guangzhou,China,Asia,43,202,658,concrete,"SOHO, retail"
+101,Deansgate Square South Tower,Manchester,United Kingdom,Europe,66,200,656,concrete,residential
+102,Garden Towers 1,Makati,Philippines,Asia,54,200,656,concrete,residential
+103,BLVD Heights Tower 1,Dubai,The United Arab Emirates,Asia,53,200,656,concrete,residential
+104,Acro Seoul Forest Tower A,Seoul,Korea,Asia,49,200,656,concrete,residential
+105,Acro Seoul Forest Tower B,Seoul,Korea,Asia,49,200,656,concrete,residential
+106,Otemachi One Tower,Tokyo,Japan,Asia,39,200,656,composite,"hotel,office"
